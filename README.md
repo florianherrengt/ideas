@@ -39,7 +39,7 @@ https://github.com/FormidableLabs/react-game-kit
     - Send an email 5 min before the meeting
     - Click here to join video call (appear.in)
 
-# Rage road helmet
+# Roadrage helmet recorder
 A helmet with a camera that starts recording as soon as you clip the jugular.
 Connects to your wifi and uploads on youtube when you get home.
 Maybe a bit of ML to automatically extract "interesting" parts.
