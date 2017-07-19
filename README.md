@@ -38,3 +38,8 @@ https://github.com/FormidableLabs/react-game-kit
     - Book meeting
     - Send an email 5 min before the meeting
     - Click here to join video call (appear.in)
+
+# Rage road helmet
+A helmet with a camera that starts recording as soon as you clip the jugular.
+Connects to your wifi and uploads on youtube when you get home.
+Maybe a bit of ML to automatically extract "interesting" parts.
