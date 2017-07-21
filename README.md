@@ -38,6 +38,7 @@ https://github.com/FormidableLabs/react-game-kit
     - Book meeting
     - Send an email 5 min before the meeting
     - Click here to join video call (appear.in)
+    
 Competition:
 - https://standuply.com/ 
 
