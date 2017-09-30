@@ -1,14 +1,3 @@
-# Ideas
-
-# Twitter followers interest and recommandation
-
-1. Sign in with your Twitter account
-2. Get the list of followers
-3. Get list of tweets
-4. Create clusters of interests
-5. Display a pie chart
-
-
 # Castle Fight Game
 ## Tech tree
 - Economy
@@ -57,6 +46,15 @@ https://github.com/FormidableLabs/react-game-kit
     
 Competition:
 - https://standuply.com/ 
+
+
+# Twitter followers interest and recommandation
+
+1. Sign in with your Twitter account
+2. Get the list of followers
+3. Get list of tweets
+4. Create clusters of interests
+5. Display a pie chart
 
 # Roadrage helmet recorder
 A helmet with a camera that starts recording as soon as you clip the jugular.
