@@ -50,7 +50,7 @@ https://github.com/FormidableLabs/react-game-kit
     - Today
     - Blockages
 - Flag button: 
-    - “I need to talk to you about this”
+    - “I need to talk to you about this” or "Talk to X"
     - Book meeting
     - Send an email 5 min before the meeting
     - Click here to join video call (appear.in)
