@@ -9,21 +9,37 @@
 5. Display a pie chart
 
 
-# Turn based game
-- FF tactic / Chess style
-- 5 units
-    - Farmer
-        - Plants veg on a tile. Harvest it in 2 turns. The crops can be destroyed by the enemy
-        - You can build a farm. The unit can’t move anymore but produce gold every turn.
-        - You can upgrade the farm
-    - Sword
-    - Bow
-    - Wizard
-    - Builder 
-        - Farm to settle a farmer
-        - Tower where an archer will sit with increased range. The tower has to be destroyed but you have a 50% to kill the archer with another one.
-- Play against your friends (realtime)
-- Play against AI -> Create flat state to train a NN
+# Castle Fight Game
+## Tech tree
+- Economy
+Hunting > Farming > GMO > Robotic farm
+Trade > Market place > Stock market > Sabotage
+Tools > Mining > Drilling > Cryptocurrencies
+
+- Military
+Blade > Hoplites > Special force > Robot Fighter
+Bow >  Arquebus > Submachine > Lazer
+Horse rider > Cossacks > Tank > Destroyer
+
+## Buidling
+When you drop a building a minion leaves your base. The building will be done once it reached the blue print. If the minion gets killed before, the blue print disappears.
+
+- Tower: Shoot units 3x3
+- Barrack: Hire units on its lane
+- Lab: Unlock research
+- Farm: Produce food for population or gold
+
+## Resources
+Population per turn is definied by food production (farms or tech)
+You can adjust the repartition of the production from farms to city (population) or gold (trade). Research of stock market increases gold from farms. Buidling a market place increase gold percentage per turn.
+
+## Map
+Same style than Plants vs Zombies. Units are moving on their own lane.
+Building are placed on tiles.
+
+## Units production
+Units require population and gold.
+You need to build a Barrack on each lane you want to hire units to fight.
 
 https://github.com/FormidableLabs/react-game-kit
 
